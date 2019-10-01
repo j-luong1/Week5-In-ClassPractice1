@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week5-In-ClassPractice1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="button1">Press me!</string>
+    <string name="switch1">Switch1</string>
+    <string name="welcome">Hello, this is my first Android APP!</string>
+</resources>
